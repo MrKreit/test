@@ -13,7 +13,7 @@ public class Main01 {
 
     System.out.println("Age of " + h1.name + " is " + h1.age);// Ctrl + D
     System.out.println("Age of " + h2.name + " is " + h2.age);
-
+    System.out.println("Prosto kommentarii");
     h1.sayHello();
     h2.sayHello();
 
