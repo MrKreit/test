@@ -5,8 +5,8 @@ public class Main01 {
     // operator sozdania objekta
     // (vydelenie pamjati)
     h1.name = "Marsel";
-    h1.age = 39;
 
+    h1.age = 39;
     Human h2 = new Human();
     h2.name = "Roman";
     h2.age = 45;
