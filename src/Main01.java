@@ -5,7 +5,7 @@ public class Main01 {
     // operator sozdania objekta
     // (vydelenie pamjati)
     h1.name = "Marsel";
-    h1.age = 29;
+    h1.age = 39;
 
     Human h2 = new Human();
     h2.name = "Roman";
@@ -13,7 +13,7 @@ public class Main01 {
 
     System.out.println("Age of " + h1.name + " is " + h1.age);// Ctrl + D
     System.out.println("Age of " + h2.name + " is " + h2.age);
-    System.out.println("Prosto kommentarii");
+    System.out.println("Prosto odin kommentar");
     h1.sayHello();
     h2.sayHello();
 
