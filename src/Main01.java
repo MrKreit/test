@@ -1,5 +1,5 @@
 public class Main01 {
-  // metod ko
+  // metod kotoryi budet chtoto delat
   public static void main(String[] args) {
     Human h1 = new Human();
     // h1 objektnaja peremennaja
